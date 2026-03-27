@@ -1,0 +1,40 @@
+aid: got
+name: Got
+description: >-
+  Got is a human-friendly and powerful HTTP request library for Node.js with support for streams, retries, and pagination.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+      - Clients
+      - Node.js
+      - HTTP Client
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/got/refs/heads/main/apis.yml
+created: '2026-03-27'
+modified: '2026-03-27'
+specificationVersion: '0.19'
+apis:
+  - aid: got:got
+    name: Got
+    description: >-
+      Got is a human-friendly and powerful HTTP request library for Node.js with support for streams, retries, and pagination.
+    humanURL: https://github.com/sindresorhus/got
+    tags:
+        - Clients
+        - Node.js
+        - HTTP Client
+    properties:
+      - type: Documentation
+        url: https://github.com/sindresorhus/got#readme
+      - type: Getting Started
+        url: https://github.com/sindresorhus/got#usage
+common:
+  - type: Website
+    url: https://github.com/sindresorhus/got
+  - type: Documentation
+    url: https://github.com/sindresorhus/got#readme
+  - type: GitHub Organization
+    url: https://github.com/sindresorhus/got
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

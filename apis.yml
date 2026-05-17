@@ -26,7 +26,7 @@ apis:
     properties:
       - type: Documentation
         url: https://github.com/sindresorhus/got#readme
-      - type: Getting Started
+      - type: GettingStarted
         url: https://github.com/sindresorhus/got#usage
 common:
   - type: Website
